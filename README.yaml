@@ -1,0 +1,28 @@
+---
+#
+# This is the canonical configuration for the `README.md`
+# Run `make readme` to rebuild the `README.md`
+#
+
+# Name of this project
+name: "<<Template>>"
+
+# Short description of this project
+description: |-
+  <<Template>>
+
+
+# Canonical GitHub repo
+github_repo: osodevops/blank-template
+
+# How to use this project
+usage: |-
+  
+
+# Example usage
+examples: |-
+
+related:
+  - name: "<<Template>>"
+    description: "<<Template>>"
+    url: "<<Template>>"
